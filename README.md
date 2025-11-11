@@ -51,7 +51,7 @@ spritesheet.png
 
 | Input Frames                                                                                                                 | Output Spritesheet                                                                                                                      |
 | ---------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Frames](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sprite_sheet_example.png/256px-Sprite_sheet_example.png) | ![Sheet](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Sprite_sheet_sample_output.png/512px-Sprite_sheet_sample_output.png) |
+| ![Frames](0000.png)![Frames](0001.png)![Frames](0002.png) | ![Sheet](spritesheetVDM.png) |
 
 ---
 
